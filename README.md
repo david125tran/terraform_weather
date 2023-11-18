@@ -6,7 +6,7 @@ I set up my weather data bucket with Influx:
 ![Influx](https://github.com/david125tran/terraform_weather/blob/master/images/nodered.png)  
   
 I use Nodered to map my infrastructures and perform my API call to get my data to Influx:
-![Nodered](https://github.com/david125tran/terraform_weather/blob/master/images/nodered.png)  
+![Nodered](https://github.com/david125tran/terraform_weather/blob/master/images/influxdb.png)  
   
 I then pull the data to grafana:
 ![Grafana](https://github.com/david125tran/terraform_weather/blob/master/images/grafana.png)  
