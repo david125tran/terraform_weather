@@ -1,5 +1,5 @@
 # terraform_weather  
-In this project, I deploy a weather dashboard of Cape Canaveral, Florida using Nodered, Influx, and Grafana via Terraform  
+In this project, I deploy a weather dashboard of Cape Canaveral, Florida using Nodered, Influx, and Grafana via Terraform.  For this project, I followed an online course.  
 I use AWS Cloud9 to provision my EC2 and host my instance. And I make an API call to https://openweathermap.org/ to pull the weather.  
 I perform my API call to pull the data to Influx and then pull from Influx to Grafana to show my visualization.  
   
